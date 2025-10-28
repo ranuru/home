@@ -1,4 +1,4 @@
 # ranuru's Homepage
 
-A basic personal homepage template (credit to copilot) built with HTML and CSS.
+A basic homepage, mainly built to experiment with the GitHub Pages feature. 
 
